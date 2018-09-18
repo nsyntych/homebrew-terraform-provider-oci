@@ -1,4 +1,4 @@
-class TerraformProviderOCI < Formula
+class TerraformProviderOci < Formula
     desc "Oracle Cloud Infrastructure Terraform Provider"
     homepage "https://github.com/terraform-providers/terraform-provider-oci"
     url "https://github.com/terraform-providers/terraform-provider-oci/releases/download/v2.2.4/darwin_amd64.tar.gz"

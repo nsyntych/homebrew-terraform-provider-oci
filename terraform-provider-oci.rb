@@ -6,7 +6,7 @@ class TerraformProviderOci < Formula
     sha256 "d3d87ed7cd3e383a625345da6083f4ea5f027288d615ef309795347791cdadca"
   
     def install
-        mv "terraform-provider-oci_v2.2.4" "terraform-provider-oci"
+        mv "terraform-provider-oci_v2.2.4", "terraform-provider-oci"
         bin.install "terraform-provider-oci"
     end
   end
